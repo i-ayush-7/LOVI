@@ -1,6 +1,6 @@
 # LOVI
 
-[]!()
+[]!(https://github.com/i-ayush-7/LOVI/blob/main/store_icon.png)
 
 LOVI is an Android application designed to help children develop cognitive skills, attention span, and focus through engaging, interactive minigames. Built natively with Jetpack Compose, the application provides a seamless, fluid user experience with a premium subscription tier powered by RevenueCat.
 
