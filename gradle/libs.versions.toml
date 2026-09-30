@@ -1,0 +1,11 @@
+[versions]
+agp = "9.4.0"
+kotlin = "2.4.20"
+compose-bom = "2026.09.00"
+
+[libraries]
+compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "compose-bom" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+compose-compiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
